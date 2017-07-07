@@ -1,0 +1,6 @@
+can refer to without constructing an object
+constructor of a class is static by default
+When a variable is declared with the keyword static, its called a class variable,
+All instances share the same copy of the variable.
+the reason why static block can be used to optimize the program:
+static block is only executed once when the class is loaded to JVM.
