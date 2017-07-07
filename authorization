@@ -1,0 +1,3 @@
+public: open to anything in the project.
+protected: open to anything in the current class, inherited class, and classes in the current package.
+private: opeo to the current class.
